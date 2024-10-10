@@ -1,0 +1,105 @@
+{
+    "data":
+    [    
+        {
+            "id": 1,
+            "name": "Nike 01",
+            "price": 2100000,
+            "img": "assets/images/shoes/1.png",
+            "des": "Màu đen đẹp",
+            "catId": 1,
+            "catName":"Nike"      
+        },
+        {
+            "id": 2,
+            "name": "Nike 02",
+            "price": 1100000,
+            "img": "assets/images/shoes/2.png",
+            "des": "Màu xanh lè",
+            "catId": 1 ,
+            "catName":"Nike"      
+        },
+        {
+            "id": 3,
+            "name": "Nike 03",
+            "price": 2500000,
+            "img": "assets/images/shoes/3.png",
+            "des": "Màu hồng cá tính",
+            "catId": 1 ,
+            "catName":"Nike"      
+        },
+        {
+            "id": 4,
+            "name": "Nike 04",
+            "price": 6000000,
+            "img": "assets/images/shoes/4.png",
+            "des": "Màu xám xịt",
+            "catId": 1 ,
+            "catName":"Nike"      
+        },
+        {
+            "id": 5,
+            "name": "Nike 05",
+            "price": 1300000,
+            "img": "assets/images/shoes/5.png",
+            "des": "Màu trắng tinh khiết",
+            "catId": 1 ,
+            "catName":"Nike"      
+        },
+        {
+            "id": 6,
+            "name": "Nike 06",
+            "price": 1990000,
+            "img": "assets/images/shoes/6.png",
+            "des": "Màu đỏ huyền ảo",
+            "catId": 2 ,
+            "catName":"Nike"  
+        },
+        {
+            "id": 7,
+            "name": "Adidas 01",
+            "price": 2100000,
+            "img": "assets/images/shoes/7.png",
+            "des": "Màu tím mộng mơ",
+            "catId": 2  ,
+            "catName":"Adidas"  
+        },
+        {
+            "id": 8,
+            "name": "Adidas 02",
+            "price": 2100000,
+            "img": "assets/images/shoes/8.png",
+            "des": "Màu da cá sấu",
+            "catId": 2  ,
+            "catName":"Adidas"  
+        },
+        {
+            "id": 9,
+            "name": "Adidas 03",
+            "price": 2100000,
+            "img": "assets/images/shoes/9.png",
+            "des": "Màu hoa anh đào",
+            "catId": 2  ,
+            "catName":"Adidas"  
+        },
+        {
+            "id": 10,
+            "name": "Adidas 04",
+            "price": 2100000,
+            "img": "assets/images/shoes/10.png",
+            "des": "Màu vàng láo cá",
+            "catId": 2  ,
+            "catName":"Adidas"  
+        },
+        {
+            "id": 11,
+            "name": "Adidas 05",
+            "price": 2100000,
+            "img": "assets/images/shoes/11.png",
+            "des": "Màu lá xa lánh",
+            "catId": 2  ,
+            "catName":"Adidas"  
+        }
+
+    ]
+}

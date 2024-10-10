@@ -1,0 +1,56 @@
+name: hd_shoesshop
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+  cloud_firestore: ^5.2.1
+  get: ^4.6.6
+  provider: ^6.1.2
+  carousel_slider: ^5.0.0
+  flutter_rating_bar: ^4.0.1
+  clippy_flutter: ^2.0.0-nullsafety.1
+  curved_navigation_bar: ^1.0.6
+  badges: ^3.1.2
+  dio: ^5.6.0
+  intl: ^0.19.0
+  shared_preferences: ^2.3.2
+  http: ^1.2.2
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/gif/
+    - assets/images/
+    - assets/images/adidas/
+    - assets/images/nike/
+    - assets/images/asics/
+    - assets/images/skechers/
+    - assets/images/puma/
+    - assets/images/shoes/
+    - assets/images/banner/
+    - assets/logo/
+    - assets/files/productlist.json
+
+  fonts: 
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PoppinsRegular.ttf
+          weight: 400
